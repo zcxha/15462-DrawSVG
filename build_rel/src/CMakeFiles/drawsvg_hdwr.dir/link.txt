@@ -1,0 +1,2 @@
+/usr/bin/llvm-ar qc libdrawsvghdwr.a CMakeFiles/drawsvg_hdwr.dir/hardware/hardware_renderer.cpp.o
+/usr/bin/llvm-ranlib libdrawsvghdwr.a

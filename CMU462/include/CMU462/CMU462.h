@@ -1,6 +1,6 @@
 #ifndef CMU462_H
 #define CMU462_H
-
+#include <cstdint>
 #include "misc.h"
 
 // CMU462 Forward Declarations //
